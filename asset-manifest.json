@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myportfolio-reactjs/static/css/main.d73f000b.chunk.css",
-    "main.js": "/myportfolio-reactjs/static/js/main.dddb564b.chunk.js",
-    "main.js.map": "/myportfolio-reactjs/static/js/main.dddb564b.chunk.js.map",
-    "runtime~main.js": "/myportfolio-reactjs/static/js/runtime~main.39886a06.js",
-    "runtime~main.js.map": "/myportfolio-reactjs/static/js/runtime~main.39886a06.js.map",
-    "static/css/2.266e55a5.chunk.css": "/myportfolio-reactjs/static/css/2.266e55a5.chunk.css",
-    "static/js/2.8452974f.chunk.js": "/myportfolio-reactjs/static/js/2.8452974f.chunk.js",
-    "static/js/2.8452974f.chunk.js.map": "/myportfolio-reactjs/static/js/2.8452974f.chunk.js.map",
-    "index.html": "/myportfolio-reactjs/index.html",
-    "precache-manifest.c1e9b803ec85155bb72ffdeea20b25b0.js": "/myportfolio-reactjs/precache-manifest.c1e9b803ec85155bb72ffdeea20b25b0.js",
-    "service-worker.js": "/myportfolio-reactjs/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/myportfolio-reactjs/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.d73f000b.chunk.css.map": "/myportfolio-reactjs/static/css/main.d73f000b.chunk.css.map"
+    "main.css": "/reactjs-timeline-component/static/css/main.d73f000b.chunk.css",
+    "main.js": "/reactjs-timeline-component/static/js/main.7ece2c93.chunk.js",
+    "main.js.map": "/reactjs-timeline-component/static/js/main.7ece2c93.chunk.js.map",
+    "runtime~main.js": "/reactjs-timeline-component/static/js/runtime~main.2347ff8f.js",
+    "runtime~main.js.map": "/reactjs-timeline-component/static/js/runtime~main.2347ff8f.js.map",
+    "static/css/2.266e55a5.chunk.css": "/reactjs-timeline-component/static/css/2.266e55a5.chunk.css",
+    "static/js/2.8452974f.chunk.js": "/reactjs-timeline-component/static/js/2.8452974f.chunk.js",
+    "static/js/2.8452974f.chunk.js.map": "/reactjs-timeline-component/static/js/2.8452974f.chunk.js.map",
+    "index.html": "/reactjs-timeline-component/index.html",
+    "precache-manifest.8caf938a5aae9c649ffd740df8c14c09.js": "/reactjs-timeline-component/precache-manifest.8caf938a5aae9c649ffd740df8c14c09.js",
+    "service-worker.js": "/reactjs-timeline-component/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/reactjs-timeline-component/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.d73f000b.chunk.css.map": "/reactjs-timeline-component/static/css/main.d73f000b.chunk.css.map"
   }
 }
